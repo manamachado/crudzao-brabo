@@ -1,0 +1,25 @@
+{
+  "name": "crudzao-brabo",
+  "version": "1.0.0",
+  "description": "crud com js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./core/crud.js",
+    "dev": "nodemon ./core/crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manamachado/crudzao-brabo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manamachado/crudzao-brabo/issues"
+  },
+  "homepage": "https://github.com/manamachado/crudzao-brabo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
